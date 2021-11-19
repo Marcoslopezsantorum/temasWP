@@ -5,6 +5,17 @@
 <h1>Perro ni escribir sabes (-_-)</h1>
     <img src="<?php echo get_stylesheet_directory_uri();?>/imagenes/mama.jpg">
 
+<div id = "contenedor">
+    <div id = "cabezera" class="rojo">
+        <h1>Hola</h1>
+    </div>
+    <div id = "cuerpo">
+        <h1>Mundo</h1>
+
+    </div>
+
+</div>
+
 
 <?php
 get_footer();
