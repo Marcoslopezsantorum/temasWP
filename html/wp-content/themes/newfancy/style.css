@@ -40,7 +40,7 @@ body{
 
 #pasa {
     position: relative;
-    left: 500px;
+    left: 0px;
 
 }
 #cabeceras{
@@ -60,3 +60,15 @@ body{
     border: 2px solid black;
 }
 
+#hola{
+    position: relative;
+    overflow: auto;
+}
+
+
+#pedro{
+    position: relative;
+    float: left;
+    width: 300px;
+    height: 300px;
+}
